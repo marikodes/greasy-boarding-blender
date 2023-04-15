@@ -2,7 +2,8 @@
 blender add-on for storyboarding w/ grease pencil
 
 ## Credits
-
+https://medium.com/geekculture/creating-a-custom-panel-with-blenders-python-api-b9602d890663 \
+Blender Python Tool Tips setting
 
 ## Development
 
