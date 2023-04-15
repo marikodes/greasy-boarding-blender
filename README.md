@@ -16,14 +16,14 @@ as well as something to easily enable drawing over the 3d setup with GP. Normall
 I thought that it would increase speed by removing the extra clicking to add a GP object with a button (which also has an associate hotkey).
 
 ## Video Inspiration
-https://www.youtube.com/watch?v=2BERE-IytcU
-https://www.youtube.com/watch?v=XrJctA2_Ixc
+https://www.youtube.com/watch?v=2BERE-IytcU \\\
+https://www.youtube.com/watch?v=XrJctA2_Ixc \\\
 
 ## Features
--Using imported SVG, extrudes walls and furniture for basic perspective
--Efficiently enables drawing over 3D layout with grease pencil with one click
+-Using imported SVG, extrudes walls and furniture for basic perspective \\\
+-Efficiently enables drawing over 3D layout with grease pencil with one click \\\
 
 
 ## Blender API references
-https://docs.blender.org/manual/en/latest/advanced/scripting/addon_tutorial.html
-https://docs.blender.org/api/current/info_overview.html
+https://docs.blender.org/manual/en/latest/advanced/scripting/addon_tutorial.html \\\
+https://docs.blender.org/api/current/info_overview.html \\\
