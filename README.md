@@ -9,5 +9,5 @@ I wanted to use this hackathon to create a project similiar to the work I see my
 
 
 ## Features
--Using imported SVG, extrudes walls and furniture for basic perspective
--Efficiently enables drawing over 3D layout with grease pencil with one click
+-Using imported SVG, extrudes walls and furniture for basic perspective \n
+-Efficiently enables drawing over 3D layout with grease pencil with one click \n
