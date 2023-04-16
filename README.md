@@ -27,7 +27,7 @@ I watched some videos to understand how different artists use blender (videos li
 Basically, I wanted to make it easier to do perspective for storyboards in blender. Instead of having to create a room layout from scratch, 
 I wanted something that would set up a basic room layout from an imported top down svg image. I wanted it to have different extrusion settings for walls vs furnature, 
 as well as something to easily enable drawing over the 3d setup with GP. Normally, to enable GP, you have to first add a GP object and then go to draw mode. 
-I thought that it would increase speed by removing the extra clicking to add a GP object with a button (which also has an associate hotkey).
+I thought that it would increase speed by removing the extra clicking to add a GP object with a button.
 
 ## Video Inspiration
 https://www.youtube.com/watch?v=2BERE-IytcU \
