@@ -3,7 +3,20 @@ blender add-on for storyboarding w/ grease pencil
 
 ## Credits
 https://medium.com/geekculture/creating-a-custom-panel-with-blenders-python-api-b9602d890663 \
-Blender Python Tool Tips setting
+#credits and helpful resources
+#https://docs.blender.org/manual/en/latest/advanced/scripting/addon_tutorial.html
+#https://medium.com/geekculture/creating-a-custom-panel-with-blenders-python-api-b9602d890663
+#https://b3d.interplanety.org/en/creating-custom-ui-panels-in-blender/
+#https://www.youtube.com/watch?v=Zl2xuUyDLTc
+#https://www.youtube.com/watch?v=udijKlIXSv4
+#https://www.youtube.com/watch?v=3pbpIbTt15Y
+#https://www.youtube.com/watch?v=uahfuypQQ04
+#https://blender.stackexchange.com/questions/73145/when-declaring-a-panel-what-does-the-bl-context-value-need-to-be
+#https://www.youtube.com/watch?v=Y67eCfiqJQU
+#ui_panel Template within blender
+#https://blender.stackexchange.com/questions/158775/having-trouble-creating-an-addon-with-multiple-modules
+#https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Python_Scripting/Addon_Anatomy#Invoking_Your_Operator
+#https://blender3d-tutorials.com/blender-2-9-python-addon-programming-tutorial
 
 ## Development
 
